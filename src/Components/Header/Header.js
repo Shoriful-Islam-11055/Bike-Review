@@ -7,7 +7,7 @@ import './Header.css'
 const Header = () => {
   return (
     <div>
-      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="py-3">
+      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="py-5">
         <Container>
         <Navbar.Brand href="#home">
         <img
@@ -24,10 +24,10 @@ const Header = () => {
             <Nav className="ms-auto">
             <div class="navbar-nav">
                 <Link class="nav-link active" aria-current="page" to="/">HOME</Link>
-                <Link class="nav-link" to="#">REVIEW</Link>
-                <Link class="nav-link" to="#">DASBOARD</Link>
-                <Link class="nav-link" to="#">BLOGS</Link>
-                <Link class="nav-link" to="#">ABOUT</Link>
+                <Link class="nav-link" to="/review">REVIEW</Link>
+                <Link class="nav-link" to="/dasboard">DASHBOARD</Link>
+                <Link class="nav-link" to="/blogs">BLOGS</Link>
+                <Link class="nav-link" to="/about">ABOUT</Link>
             </div>
             </Nav>
           </Navbar.Collapse>
