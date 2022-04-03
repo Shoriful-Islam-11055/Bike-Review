@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "name": "Kawasaki Ninja 300",
+      "img": "https://imgd.aeplcdn.com/1280x720/n/bw/models/colors/undefined-candy-lime-green-1614703738915.jpg?q=80",
+      "price": "₹ 3,18,679",
+      "CC": "296 cc",
+      "Mileage": "32.1 kmpl",
+      "Weight": "179 kg"
+    },
+    {
+        "id": 2,
+        "name": "KTM RC 390",
+        "img": "https://imgd.aeplcdn.com/1280x720/n/bw/models/colors/ktm-select-model-black-with-white-1608044198183.jpg?q=75",
+        "price": "₹ 2,77,692 ",
+        "CC": "373 cc",
+        "Mileage": "26 kmpl",
+        "Weight": ""
+    },
+    {
+        "id": 3,
+        "name": "Jawa Perak ",
+        "img": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/53643/perak-right-rear-three-quarter.jpeg?q=80",
+        "price": "₹ 2,08,297",
+        "CC": "334 cc",
+        "Mileage": "30 kmpl",
+        "Weight": "175 kg"
+    },
+    {
+        "id": 4,
+        "name": "Kawasaki Ninja H2",
+        "img": "https://images.carandbike.com/bike-images/large/kawasaki/ninja-h2/kawasaki-ninja-h2.webp?v=6",
+        "price": "₹ 34,99,000",
+        "CC": "998.0 CC",
+        "Mileage": "15 Km/l",
+        "Weight": "238Kg"
+    },
+    {
+        "id": 5,
+        "name": "Ducati Panigale V2",
+        "img": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/49828/ducati-panigale-v2-side3.png?q=80",
+        "price": "₹ 17,48,826",
+        "CC": "	955 cc",
+        "Mileage": "16.6 kmpl",
+        "Weight": "200 kg"
+    },
+    {
+        "id": 6,
+        "name": "Ducati SuperSport",
+        "img": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/103219/right-side-view.jpeg?isig=0&q=80",
+        "price": "₹ 14,31,000 ",
+        "CC": "937 cc",
+        "Mileage": "17.8 kmpl",
+        "Weight": "210 kg"
+    },
+    {
+        "id": 7,
+        "name": "Kawasaki Ninja 1000",
+        "img": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/108013/ninja-1000-right-front-three-quarter.jpeg?isig=0&q=80",
+        "price": "₹ 11,51,000",
+        "CC": "1,043 cc",
+        "Mileage": "17 kmpl",
+        "Weight": "238 kg"
+    },
+    {
+        "id": 8,
+        "name": "BMW M 1000 RR ",
+        "img": "https://bd.gaadicdn.com/processedimages/bmw/m-1000-rr/source/m-1000-rr605c41ab6f350.jpg",
+        "price": "Rs. 42.00 Lakh",
+        "CC": "999 cc",
+        "Mileage": "15 kmpl",
+        "Weight": "192 Kg"
+    },
+    {
+        "id": 9,
+        "name": "Iron 883 BS6",
+        "img": "https://bd.gaadicdn.com/processedimages/harley-davidson/harley-davidson-sportster/source/harley-davidson-sportster608b877e0506e.jpg",
+        "price": "Rs. 10.11 Lakh",
+        "CC": "883 cc",
+        "Mileage": "12 kmpl",
+        "Weight": "180 Kg"
+    },
+    {
+        "id": 10,
+        "name": "Harley Davidson Sportster",
+        "img": "https://bd.gaadicdn.com/processedimages/harley-davidson/custom-1250/source/custom-125061adb17873eaf.jpg",
+        "price": "Rs. 15.51 Lakh",
+        "CC": "1252 cc",
+        "Mileage": "12kmpl",
+        "Weight": "210 Kg"
+    },
+    {
+        "id": 11,
+        "name": "MV Agusta Brutale 1000 RR",
+        "img": "https://bd.gaadicdn.com/upload/userfiles/images/60c32b64b9ace.jpg",
+        "price": "Rs 29.50 Lakh*",
+        "CC": "998cc",
+        "Mileage": "15kmpl",
+        "Weight": "25Kg"
+    },
+    {
+        "id": 12,
+        "name": "MV Agusta F3 800 Rosso",
+        "img": "https://bd.gaadicdn.com/upload/userfiles/images/60b134e33baba.jpg",
+        "price": "Rs 25.50 Lakh*",
+        "CC": "800cc",
+        "Mileage": "13 kmpl",
+        "Weight": "260Kg"
+    }
+  ]
