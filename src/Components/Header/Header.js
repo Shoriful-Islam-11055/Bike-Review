@@ -7,9 +7,9 @@ import './Header.css'
 const Header = () => {
   return (
     <div>
-      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="py-5">
+      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="py-3 fixed-top">
         <Container>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand href="/">
         <img
           alt=""
           src={logo}

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+.title-cart{
+    font-family: 'Russo One', sans-serif;
+}
+
+.card-text-contain{
+   padding: 10px;
+}
+.cover-pic{
+    width: 95%;
+}
+
