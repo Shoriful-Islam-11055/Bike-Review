@@ -1,9 +1,10 @@
 import React from 'react';
+import './Dasboard.css'
 
 const Dasboard = () => {
     return (
-        <div>
-            <h2>This this Dasboard</h2>
+        <div className='dashboard-container'>
+            <h2 className=''>This this Dasboard</h2>
         </div>
     );
 };
