@@ -1,9 +1,14 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
 import coverImage from '../images/bike-logo.PNG'
+import useReviews from "../hooks/useReviews";
 import './Home.css'
+import HomeCard from '../HomeCard/HomeCard';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
+    let randomItem;
+    const [reviews, setReviews] = useReviews();
     return (
         <div className='home-container mt-5 py-5'>
             <div className="card mb-3 border-0">
@@ -23,8 +28,18 @@ const Home = () => {
                     </div>
                 </div>
                 <section className='review demo mt-5'>
-                    <h1>Some Demo Review</h1>
+                    <h1 className='home-card-title'>Some Demo Review</h1>
+                    <h2>Total review: {(reviews.length)}</h2>
+                    {
+                        reviews.slice(0,3).map(review =><HomeCard 
+                        key={review.id}
+                        review = {review}
+                        ></HomeCard> )
+            
+                    }
+                   {/* <Link  to="/review">See All Review</Link> */}
 
+                   <Link  to="/review"><button className='btn-lg btn btn-primary fs-4 fw-bold mt-5'>See All Review</button></Link>
                 </section>
         </div>
     );

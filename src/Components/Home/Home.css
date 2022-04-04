@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
 
 .title-cart{
     font-family: 'Russo One', sans-serif;
@@ -9,5 +10,14 @@
 }
 .cover-pic{
     width: 95%;
+}
+.home-card-title{
+    text-decoration: underline;
+    font-family: 'Goblin One', cursive;
+    color: rgb(228, 167, 11);
+}
+.details-btn{
+    color: aliceblue;
+    text-decoration: none;
 }
 
