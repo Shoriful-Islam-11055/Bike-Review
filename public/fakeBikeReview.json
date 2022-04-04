@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Ashik Rana",
+      "img": "https://i.pinimg.com/originals/23/56/37/235637d75ef82036c766b21c80df94e5.jpg",
+      "review": "You don’t stop riding when you get old, you get old when you stop riding.",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 2,
+        "name": "Omar Faruk",
+        "img": "https://i.pinimg.com/originals/cb/78/2b/cb782bd9da27e7b6dcd7974d2bb3a42e.jpg",
+        "review": "Life is not about waiting for the storms to pass: it’s about learning how to ride in the rain!",
+       "rating": "⭐⭐⭐"
+    },
+    {
+        "id": 3,
+        "name": "Bernard Hinault",
+        "img": "https://www.daiwa.in/wp-content/uploads/2021/06/arjun.jpg",
+        "review": "I believe there are two periods in life, one for the bike, the other for becoming active on one’s work.",
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "id": 4,
+        "name": "Vin Diesel",
+        "img": "https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1578313296000/photosp/fe189936-dcaf-4285-9a68-e2c656e5d68b/stock-photo-good-looking-asian-man-red-bike-handsome-boy-super-bike-sports-bike-indian-male-indian-male-in-sunglasses-pose-with-bike-fe189936-dcaf-4285-9a68-e2c656e5d68b.jpg",
+        "review": "₹It wasn’t until I went to college and I got my first motorcycle that I understood the thrill of speed.",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 5,
+        "name": "Ducati Panigale V2",
+        "img": "https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1585023142000/photosp/ce83286f-9b91-4929-8ebb-0f165368e049/stock-photo-indian-boy-with-image-indian-man-with-super-bike-indian-hansome-boy-with-bike-in-garden-ce83286f-9b91-4929-8ebb-0f165368e049.jpg",
+        "review": "₹ 17,48,826",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 6,
+        "name": "Ducati SuperSport",
+        "img": "https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1608717644000/photosp/387a8162-48e6-4a2d-bb85-66e20c00a997/stock-photo-middle-aged-young-age-attitude-image-indian-boy-with-ktm-bike-super-bike-with-indian-boy-very-handsome-man-of-india-abazeem300-young-aged-boy-of-india-old-age-man-in-india-387a8162-48e6-4a2d-bb85-66e20c00a997.jpg",
+        "price": "₹ 14,31,000 ",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 7,
+        "name": "Eric Bana",
+        "img": "https://images.newindianexpress.com/uploads/user/imagelibrary/2014/9/11/1/original/Mithun.jpg",
+        "review": "I look my best when I take my helmet off after a long motorcycle ride. I have a glow and a bit of helmet hair.",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "id": 8,
+        "name": "John Lasseter",
+        "img": "https://images.unsplash.com/photo-1623230590824-f39e31a0a608?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW5kaWFuJTIwYm95fGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "review": "I worry about kids today not having time to build a treehouse or ride a bike or go fishing. I worry that life is getting faster and faster.",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 9,
+        "name": "Evel Knievel",
+        "img": "https://i.pinimg.com/originals/63/94/32/639432afaaa746464f09c1e8eb6682e8.jpg",
+        "review": "The older I get, the faster I was. There are old bikers and there are bold bikers, but there are no old, bold bikers",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 10,
+        "name": "Jacky Ickx",
+        "img": "https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1593878352000/photosp/1d2986ff-f685-49bd-af0f-1ca47bcccffa/stock-photo-happy-bike-rider-indian-boy-indian-male-1d2986ff-f685-49bd-af0f-1ca47bcccffa.jpg",
+        "review": "That is why, as soon as I felt a real attraction for my first passion which was the motorcycle, and in spite of the danger it could represent, they encouraged me.",
+        "rating": "⭐⭐⭐"
+    },
+    {
+        "id": 11,
+        "name": "Moznu shek",
+        "img": "https://i.pinimg.com/originals/c5/88/45/c58845f3744cd134db2323bac01a5801.jpg",
+        "review": "Faster, faster, faster, until the thrill of speed overcomes the fear of death.",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 12,
+        "name": "Munna mikel",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7cjvob1o_l7_ianZmCmvUHEkx7adB69o0DmjMYD-Lig7sDKnwt_kNpfZwmDUdluWDTlg&usqp=CAU",
+        "review": "hin leather looks good in the bar, but it won’t save your butt from “road rash” if you go down.",
+        "rating": "⭐⭐⭐⭐"
+    }
+  ]
