@@ -3,11 +3,10 @@ import { Button } from 'react-bootstrap';
 import coverImage from '../images/bike-logo.PNG'
 import useReviews from "../hooks/useReviews";
 import './Home.css'
-import HomeCard from '../HomeCard/HomeCard';
+import ReviewCard from '../ReviewCard/ReviewCard';
 import { Link } from 'react-router-dom';
 
 const Home = () => {
-    let randomItem;
     const [reviews, setReviews] = useReviews();
     return (
         <div className='home-container mt-5 py-5'>
@@ -30,13 +29,15 @@ const Home = () => {
                 <section className='review demo mt-5'>
                     <h1 className='home-card-title'>Some Demo Review</h1>
                     <h2>Total review: {(reviews.length)}</h2>
+                    <div className='home-card-container container'>
                     {
-                        reviews.slice(0,3).map(review =><HomeCard 
+                        reviews.slice(0,3).map(review =><ReviewCard
                         key={review.id}
                         review = {review}
-                        ></HomeCard> )
+                        ></ReviewCard> )
             
                     }
+                    </div>
                    {/* <Link  to="/review">See All Review</Link> */}
 
                    <Link  to="/review"><button className='btn-lg btn btn-primary fs-4 fw-bold mt-5'>See All Review</button></Link>
