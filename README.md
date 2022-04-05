@@ -8,5 +8,5 @@
 * Inside blog you can see some important question answer.
 ## Available Scripts
 
-## Live Side Link :  [Link](https://online-bike-website.netlify.app/)
-## My Github Link:  [Link](https://github.com/Programming-Hero-Web-Course4/lucky-one-Shoriful-Islam-11055)
+## Live Side Link :  [Link](https://bike-review-2022.netlify.app)
+## My Github Link:  [Link](https://github.com/programming-hero-web-course-4/product-analysis-website-Shoriful-Islam-11055)
