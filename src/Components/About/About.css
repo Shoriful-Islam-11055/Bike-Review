@@ -1,0 +1,32 @@
+.about-container{
+    margin-top: 100px;
+    
+}
+.about-page-title{
+    text-decoration: underline;
+    font-family: 'Goblin One', cursive;
+    color: rgb(228, 167, 11);
+    
+}
+.form-area{
+    background-color: rgb(201, 202, 202);
+    padding: 10px;
+    border-radius: 15px;
+    width: 60%;
+    margin: auto;
+    
+}
+
+@media (max-width: 1000px) and (min-width: 710px) {
+    .form-area{
+        justify-content: center;
+        width: 95%;
+    }
+    
+}
+@media (max-width: 710px) and (min-width: 200px) {
+    .form-area{
+        justify-content: center;
+        width: 95%;
+    }
+}

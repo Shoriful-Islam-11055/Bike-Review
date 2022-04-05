@@ -27,8 +27,7 @@ const Home = () => {
                     </div>
                 </div>
                 <section className='review demo mt-5'>
-                    <h1 className='home-card-title'>Some Demo Review</h1>
-                    <h2>Total review: {(reviews.length)}</h2>
+                    <h1 className='home-card-title mb-3'>Some Demo Review</h1>
                     <div className='home-card-container container'>
                     {
                         reviews.slice(0,3).map(review =><ReviewCard
