@@ -1,0 +1,8 @@
+.blog-container{
+    margin-top: 100px;
+}
+.blog-card-title{
+    text-decoration: underline;
+    font-family: 'Goblin One', cursive;
+    color: rgb(228, 167, 11);
+}

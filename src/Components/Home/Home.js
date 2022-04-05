@@ -40,7 +40,7 @@ const Home = () => {
                     </div>
                    {/* <Link  to="/review">See All Review</Link> */}
 
-                   <Link  to="/review"><button className='btn-lg btn btn-primary fs-4 fw-bold mt-5'>See All Review</button></Link>
+                   <Link  to="/review"><button className='btn-lg btn btn-primary fs-4 fw-bold mt-3'>See All Review</button></Link>
                 </section>
         </div>
     );
